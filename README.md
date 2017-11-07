@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Maize Annotation Jamboree
 
 You can use the [editor on GitHub](https://github.com/Kapeel/Maize_Annotation_Jamboree/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
